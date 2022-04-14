@@ -2,6 +2,11 @@
 # ![haarcascade-smile-detection](https://user-images.githubusercontent.com/95453430/163402651-b39f92d4-68a0-4d86-bc70-d4f6c523fb8b.svg)
 
 <!-- Project Images -->
+![Smile Detection Main Image](https://user-images.githubusercontent.com/95453430/163466740-0314e1ad-ef7a-4ddf-9e51-4dc26ddb621b.png)
+
+![RockSmileDetection](https://user-images.githubusercontent.com/95453430/163466776-2ddcb29f-72e3-411a-a3cc-8dc4fecd4e25.png)
+
+![RobertSmileDetection](https://user-images.githubusercontent.com/95453430/163466780-285bec0b-08a7-4640-8126-38e6c89c0a10.png)
 
 <!-- Project Description -->
 # ![project-description (14)](https://user-images.githubusercontent.com/95453430/163402656-12a712e0-7780-4f47-8199-2dc2639582b5.svg)
