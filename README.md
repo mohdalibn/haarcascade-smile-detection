@@ -11,6 +11,8 @@
 <!-- Project Description -->
 # ![project-description (14)](https://user-images.githubusercontent.com/95453430/163402656-12a712e0-7780-4f47-8199-2dc2639582b5.svg)
 
+This is a **Python Project** featuring **Smile Detection Scripts** for both Images & Videos made using **Python**. The **Smile Detection** is achieved through the **Haar Cascaade Pretrained Face Data Model & Pretrained Smile Model** loaded using **OpenCV Python**.
+
 <!-- Project Tech-Stack -->
 # ![technologies-used (14)](https://user-images.githubusercontent.com/95453430/163402663-65433096-84bb-4b8a-b6bc-5c6706940e39.svg)
 
