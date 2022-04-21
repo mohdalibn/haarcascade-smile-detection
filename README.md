@@ -46,4 +46,4 @@ python ImageSmileDetection.py
 python VideoSmileDetection.py
 ```
 - There are already some images and videos provided in the **Assets** folder for testing. To test a different image/video for smile detection, place the desired image/video in the **Assets** folder in the **Root Directory** and **change the file name on the 10th line of the ImageSmileDetection.py script in the case of an image and 5th line of the VideoSmileDetection.py in the case of a video**.
-- Enjoying playing around with the scripts!
+- Enjoy playing around with the scripts!
